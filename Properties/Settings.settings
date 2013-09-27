@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DV1L3001_ArchivageFichiersRdi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CODE_RETOUR_ERREUR" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="CONNECTSTRING" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=dawht1;User ID=dmmkp;Password=dev;</Value>
+    </Setting>
+    <Setting Name="EmailFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">svincent@gazmetro.com</Value>
+    </Setting>
+    <Setting Name="EmailErrorTo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">svincent@gazmetro.com</Value>
+    </Setting>
+    <Setting Name="NB_MOIS_A_CONSERVER" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">36</Value>
+    </Setting>
+    <Setting Name="BACKUP_DESTINATION_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TEMP</Value>
+    </Setting>
+    <Setting Name="SOURCE_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\TEMP</Value>
+    </Setting>
+    <Setting Name="NO_EMISSION_BASE" Type="System.Int64" Scope="Application">
+      <Value Profile="(Default)">500000</Value>
+    </Setting>
+    <Setting Name="MAX_NB_MISSING_FOLDER_FOR_EXIT" Type="System.Int64" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
